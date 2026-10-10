@@ -12,9 +12,9 @@ The area of a ward is a basic measure of urban form: comparing ward sizes across
 
 ## 📂 Programs in this branch
 
-| # | Program | What it does |
-|:-:|---|---|
-| 1 | [**Ward Area Map**](#1-ward-area-map) | Area of each ward in km², saved to Excel and shown on a map |
+| Program | What it does |
+|---|---|
+| [**Ward Area Map**](#ward-area-map) | Area of each ward in km², saved to Excel and shown on a map |
 
 ## ⚙️ Getting started
 
@@ -30,7 +30,7 @@ Every program is interactive: it asks for its inputs one at a time in the termin
 
 ---
 
-## 1. Ward Area Map
+## Ward Area Map
 
 📄 **File:** [`ward_area.py`](./ward_area.py)
 
