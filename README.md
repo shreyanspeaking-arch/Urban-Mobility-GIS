@@ -12,9 +12,9 @@ Road density is the total length of roads in an area divided by the size of that
 
 ## 📂 Programs in this branch
 
-| # | Program | What it does |
-|:-:|---|---|
-| 1 | [**Road Density per Electoral Ward**](#1-road-density-per-electoral-ward) | Total length of drivable roads in each ward divided by its area (km/km²), with a map |
+| Program | What it does |
+|---|---|
+| [**Road Density per Electoral Ward**](#road-density-per-electoral-ward) | Total length of drivable roads in each ward divided by its area (km/km²), with a map |
 
 ## ⚙️ Getting started
 
@@ -30,7 +30,7 @@ Every program is interactive: it asks for its inputs one at a time in the termin
 
 ---
 
-## 1. Road Density per Electoral Ward
+## Road Density per Electoral Ward
 
 📄 **File:** [`Road_Density_per_Electoral_Ward.py`](./Road_Density_per_Electoral_Ward.py)
 
