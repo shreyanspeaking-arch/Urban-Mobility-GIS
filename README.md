@@ -12,9 +12,9 @@ The perimeter of a ward is the length of its boundary. Set against its area, it 
 
 ## 📂 Programs in this branch
 
-| # | Program | What it does |
-|:-:|---|---|
-| 1 | [**Ward Perimeter Map**](#1-ward-perimeter-map) | Perimeter of each ward in km, saved to Excel and shown on a map |
+| Program | What it does |
+|---|---|
+| [**Ward Perimeter Map**](#ward-perimeter-map) | Perimeter of each ward in km, saved to Excel and shown on a map |
 
 ## ⚙️ Getting started
 
@@ -30,7 +30,7 @@ Every program is interactive: it asks for its inputs one at a time in the termin
 
 ---
 
-## 1. Ward Perimeter Map
+## Ward Perimeter Map
 
 📄 **File:** [`ward_perimeter.py`](./ward_perimeter.py)
 
